@@ -6,6 +6,10 @@
 <h3 font-size="20" align="center">A passionate Web developer and crafting responsive, dynamic, and user-friendly websites with modern tech..</h3>
 <h1 align="center">Hi 👋, I'm Nilaj Chakraborty</h1>
 
+ <h1 align="center">
+  <img style="width:500rem; height:auto align="center" src="https://github.com/nilajcoder/nilajcoder/blob/main/icon/welcome%20message.svg">
+</h1>
+
 <h3 font-size="20" align="center">A passionate Web developer and crafting responsive, dynamic, and user-friendly websites with modern tech..</h3>
 
 
