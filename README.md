@@ -56,8 +56,6 @@
 
 
 
-<p><img src="https://www.hackerrank.com/certificates/340787e1415f" alt="java" width="320px" height="250px" />
-
 
 
 <h3 align="center">Connect with me</h3>
