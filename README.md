@@ -4,7 +4,7 @@
 
 
 <h3 font-size="20" align="center">A passionate Web developer and crafting responsive, dynamic, and user-friendly websites with modern tech..</h3>
-<h1 align="center">Hi 👋, I'm Nilaj Chakraborty</h1>
+<h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Nilaj Chakraborty</h1>
 
  <h1 align="center">
   <img style="width:500rem; height:auto align="center" src="https://github.com/nilajcoder/nilajcoder/blob/main/icon/welcome%20message.svg">
@@ -42,15 +42,15 @@
 ## Experience
 <table>
   <tr>
-    <td align="center">  Executive<br>
-                        Skylight Management Services Pvt. Ltd<br>
+    <td align="center">   Skylight Management Services Pvt. Ltd <br>
+                                Executive <br>
                        03-06-2024 to 04-12-2024
     </td>
     <td align="center"><img src="https://media.licdn.com/dms/image/v2/D5603AQHgWQq-P-VjFw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1714991946597?e=2147483647&v=beta&t=pFSZhVjA39IqCIB3uohfERTMxx_wgEIxAo21HN7XVaM "alt="nilaj" width="`60px" height="70px"/></td>
   </tr>
   <tr>
-    <td align="center">  Analyst <br>
-                         Capgemini <br>
+    <td align="center">  Capgemini  <br>
+                          Analyst<br>
                        22-12-2022 to 19-04-2023
     </td>
     <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZCYLPuMbA9IqypgdMKND7_nG610CDD4avMka5hxbR1sjJkX7hhd5L-esqkUUhpAHSsW0&usqp=CAU" alt="Cg" width="`60px" height="70px"/></td>
