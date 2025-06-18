@@ -38,6 +38,6 @@
 <div style="margin-top:10px" align="center">
 <h3 align="center">Reach me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nilaj-chakraborty-1782b51b4/ target="_blank">
+  <a href="https://www.linkedin.com/in/nilaj-chakraborty-1782b51b4/"target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
   </a>
