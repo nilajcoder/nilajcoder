@@ -22,7 +22,7 @@
 <p>💬 Ask me about <strong>How to Create Project from scratch 😆</strong></p>
 </li>
 <li>
-<p>⚡ Fun fact <strong>Debugginging Life</strong></p>
+<p>⚡ Fun fact <strong>Debugging Life</strong></p>
 </li>
 <li>
 <p>👨‍💻 Email ID - <a href="mailto:nilaj.chakraborty007@gmail.com">nilaj.chakraborty007@gmail.com</a></p>
