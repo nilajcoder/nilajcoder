@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td align="center">  Analyst <br>
-                       22-12-2022 to 19-04-2022
+                       22-12-2022 to 19-04-2023
     </td>
     <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZCYLPuMbA9IqypgdMKND7_nG610CDD4avMka5hxbR1sjJkX7hhd5L-esqkUUhpAHSsW0&usqp=CAU" alt="Cg" width="`60px" height="70px"/></td>
   </tr>
