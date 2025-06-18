@@ -17,7 +17,7 @@
 <p>🌱 I’m currently learning <strong>React Js Node Js</strong> <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"></p>
 </li>
 <li>
-<p>⚡ I’m interested in building <strong>dynamic and interactive web responses</strong></p>
+<p>⚡ I’m interested in building <strong>dynamic and interactive webpages</strong></p>
 </li>
 <li>
 <p>👨‍💻 All of my projects are available <a href="https://github.com/nilajcoder">nilajcoder</a></p>
