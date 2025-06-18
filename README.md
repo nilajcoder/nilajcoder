@@ -43,12 +43,14 @@
 <table>
   <tr>
     <td align="center">  Executive<br>
+                        Skylight Management Services Pvt. Ltd<br>
                        03-06-2024 to 04-12-2024
     </td>
     <td align="center"><img src="https://media.licdn.com/dms/image/v2/D5603AQHgWQq-P-VjFw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1714991946597?e=2147483647&v=beta&t=pFSZhVjA39IqCIB3uohfERTMxx_wgEIxAo21HN7XVaM "alt="nilaj" width="`60px" height="70px"/></td>
   </tr>
   <tr>
     <td align="center">  Analyst <br>
+                         Capgemini <br>
                        22-12-2022 to 19-04-2023
     </td>
     <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZCYLPuMbA9IqypgdMKND7_nG610CDD4avMka5hxbR1sjJkX7hhd5L-esqkUUhpAHSsW0&usqp=CAU" alt="Cg" width="`60px" height="70px"/></td>
