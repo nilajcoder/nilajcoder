@@ -2,8 +2,6 @@
   <img style="width:8rem; height:auto" src="https://miro.medium.com/v2/resize:fit:678/0*kxPYwfJmkXZ3iCWy.png">
 </p>
 
-
-<h3 font-size="20" align="center">A passionate Web developer and crafting responsive, dynamic, and user-friendly websites with modern tech..</h3>
 <h1 align="center">Hi ,<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> I'm Nilaj Chakraborty</h1>
 
  <h1 align="center">
