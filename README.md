@@ -4,9 +4,7 @@
 
 <h1 align="center">Hi ,<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> I'm Nilaj Chakraborty</h1>
 
- <h1 align="center">
-  <img style="width:500rem; height:auto align="center" src="https://github.com/nilajcoder/nilajcoder/blob/main/icon/welcome%20message.svg">
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+Account;Aspiring+Web+Developer+;React%7CJavascript" alt="Typing SVG" /></a>
 
 <h3 font-size="20" align="center">A passionate Web developer and crafting responsive, dynamic, and user-friendly websites with modern tech..</h3>
 
