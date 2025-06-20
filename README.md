@@ -31,6 +31,9 @@
 <li>
 <p>👨‍💻 Email ID - <a href="mailto:nilaj.chakraborty007@gmail.com">nilaj.chakraborty007@gmail.com</a></p>
 </li>
+<li>
+<p>🎯 Goal: Join a creative Web Development startup</p>
+</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
