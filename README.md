@@ -12,7 +12,7 @@
 ## About Me
 <ul>
 <li>
-<p>🌱 I’m currently learning <strong>React Js Node Js</strong> <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"></p>
+<p>🌱 I’m currently learning <strong>React Js React Native  Node Js</strong> <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"></p>
 </li>
 <li>
 <p>⚡ I’m interested in building <strong>dynamic and interactive webpages</strong></p>
